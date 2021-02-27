@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,uDACF,CAEA,OACE,UACF","file":"main.6558c5d0.chunk.css","sourcesContent":["body {\n  font-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;\n}\n\nbutton {\n  margin: 5px;\n}\n"]}
